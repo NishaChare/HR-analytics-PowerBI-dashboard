@@ -21,3 +21,5 @@ Targeted retention initiatives for the sales department, personalized career pla
 
 **Conclusion:**  
 The analysis at Adecco India provides actionable insights to develop effective retention strategies, thereby boosting employee satisfaction and reducing turnover.
+Here is the link for my dynamic dashbord
+https://app.powerbi.com/view?r=eyJrIjoiZjJkYmYwZGUtZDhkZS00MTAwLThlMDMtYjQ5YTlmZDc0MjhmIiwidCI6ImM4YjNlYTU4LWIzYTItNGYxMS1hMDI2LWM4NTQ3M2QzM2ViNSJ9
